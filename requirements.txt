@@ -1,19 +1,8 @@
-streamlit
+streamlit 
+pillow
 google-generativeai
-python-dotenv
 langchain
-PyPDF2
-faiss-cpu
-langchain_google_genai
-googletrans
-langdetect
-streamlit-mic-recorder
-gtts
-python-docx
-transformers
-torch
-sentence-transformers
-langchain-community
-
-
+langchain-openai
+langchain-groq
+requests
 
