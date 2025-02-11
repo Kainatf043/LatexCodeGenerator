@@ -11,7 +11,7 @@ st.title("🖼️ Math Image Analyzer with Gemini")
 # Language selection dropdown
 language = st.selectbox(
     "Select the programming language for the generated code:",
-    ["Python", "Java", "C", "C#", "C++"]
+    ["Python"]
 )
 
 # Upload image
